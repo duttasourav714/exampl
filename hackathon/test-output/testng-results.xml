@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29539" started-at="2021-03-23T10:13:03 IST" finished-at="2021-03-23T10:13:32 IST">
+    <groups>
+      <group name="testCase">
+        <method signature="Login.login()[pri:0, instance:testCases.Login@527e5409]" name="login" class="testCases.Login"/>
+      </group> <!-- testCase -->
+    </groups>
+    <test name="Default test" duration-ms="29539" started-at="2021-03-23T10:13:03 IST" finished-at="2021-03-23T10:13:32 IST">
+      <class name="testCases.Login">
+        <test-method status="PASS" signature="login()[pri:0, instance:testCases.Login@527e5409]" name="login" duration-ms="28540" started-at="2021-03-23T10:13:03 IST" finished-at="2021-03-23T10:13:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="close()[pri:0, instance:testCases.Login@527e5409]" name="close" is-config="true" duration-ms="922" started-at="2021-03-23T10:13:31 IST" finished-at="2021-03-23T10:13:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testCases.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
